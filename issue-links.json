@@ -1,6 +1,5 @@
 {
-    "directed": true,
-    "graph": {},
+    
     "links": [
         {
             "source": "SB",
@@ -3393,7 +3392,6 @@
             "weight": 1
         }
     ],
-    "multigraph": false,
     "nodes": [
         {
             "id": "SB"
